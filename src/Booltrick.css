@@ -1,0 +1,17 @@
+.Booltrick{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;    
+}
+
+.Booltrick button{
+    color: rgb(188, 190, 188);
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+}

@@ -1,0 +1,45 @@
+.Counter{
+    margin: auto;
+    padding: 30px;
+}
+
+.Circle-enclosure{
+    border-radius: 10px;
+    background-color: rgb(230, 231, 233);
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
+}
+
+.Counter h1{
+    font-size: 5rem;
+}
+
+.Counter p {
+    text-decoration: underline;
+}
+
+
+
+.Circle{    
+    background-color: rgb(250, 204, 18);
+    width: 300px;
+    height: 300px;
+    display: block;
+    border-radius: 150px;
+    justify-content: center;
+}
+
+.Button-color{
+    background-color: rgb(74, 194, 219);
+    color: rgb(17, 17, 17);
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+}
